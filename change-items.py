@@ -20,5 +20,5 @@ print(colors) # Muestro de nuevo su contenido.
 
 colors = ['red', 'green', 'blue'] # Creo la variable y sus items.
 print(colors) # Muestro su contenido.
-colors.insert(2, 'yellow') # Inserto en la posición 2 el item 'yellow'.
+colors.insert(2, 'yellow') # Inserto en la posición 2 el item 'yellow'. El resto de los items se correrán una posición hacia la derecha.
 print(colors) # Muestro su nuevo contenido.
