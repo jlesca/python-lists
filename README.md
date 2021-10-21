@@ -7,3 +7,4 @@ There're many functions and methods with list in Python. Let's see some of them 
 3.  [Search Items](search-items.py)
 4.  [Change Items](change-items.py)
 5.  [Add Items](add-items.py)
+6.  [Remove Items](remove-items.py)
