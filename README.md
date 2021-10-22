@@ -8,4 +8,4 @@ There're many functions and methods with list in Python. Let's see some of them 
 4.  [Change Items](change-items.py)
 5.  [Add Items](add-items.py)
 6.  [Remove Items](remove-items.py)
-7.  [Loop List](loop-lists.py)
+7.  [Loops Lists](loops-lists.py)
