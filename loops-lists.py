@@ -14,7 +14,8 @@ colors = ['red', 'green', 'blue'] # Creo la variable y sus elementos.
 
 
 # BUCLES MEDIANTE LA FUNCIÓN WHILE
-# Podemos hacer bucles usando la función LEN() para indicar que inicie desde la posición 0 (cero) y avance por cada elemento de la lista hasta llegar al final de su longitud.
+# Podemos hacer bucles usando la función LEN() para indicar que inicie desde la posición 0 (cero) 
+# y avance por cada elemento de la lista hasta llegar al final de su longitud.
 
 colors = ['red', 'green', 'blue', 'yellow', 'pink', 'brown'] # Creo la variable y sus elementos.
 item = 0 # Creo la variable 'item' y le asigno el valor 0 
