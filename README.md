@@ -11,4 +11,4 @@ There're many functions and methods with list in Python. Let's see some of them 
 7.  [Loops Lists](loops-lists.py)
 8.  [Sort Lists](sort-lists.py)
       1. [Case Insensitive Sort](case-insensitive.py)
-9.  [Lists Methods](list-methods.py)
+9.  [Lists Methods](list-methods.md)
